@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dephilosophorum00giesgoog_0007.png"; bbox 0 0 3309 5167; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1088 1978 2019 2053">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1088 1978 2019 2053">
+     <span class='ocr_line' id='line_1_1' title="bbox 1088 1978 2019 2053; baseline -0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1088 1979 1432 2053; x_wconf 84' lang='lat' dir='ltr'><strong>PROAVI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1489 1978 2019 2052; x_wconf 78' lang='lat' dir='ltr'><strong>CARISSUMI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 893 2178 2270 2412">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 893 2178 2270 2412">
+     <span class='ocr_line' id='line_1_2' title="bbox 893 2178 2270 2412; baseline -0.001 -40"><span class='ocrx_word' id='word_1_3' title='bbox 893 2265 1011 2373; x_wconf 82' lang='lat' dir='ltr'><strong>B.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1099 2264 1226 2374; x_wconf 72' lang='lat' dir='ltr'><strong>G.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1316 2178 2270 2412; x_wconf 34' lang='lat' dir='ltr'>TEUBNERIJ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1240 2582 1876 2651">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1240 2582 1876 2651">
+     <span class='ocr_line' id='line_1_3' title="bbox 1240 2582 1876 2651; baseline -0.002 -2"><span class='ocrx_word' id='word_1_6' title='bbox 1240 2584 1419 2651; x_wconf 86' lang='lat' dir='ltr'>PIIS</span> <span class='ocrx_word' id='word_1_7' title='bbox 1465 2582 1876 2650; x_wconf 85' lang='lat' dir='ltr'>MANIBUS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
